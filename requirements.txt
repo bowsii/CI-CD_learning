@@ -1,2 +1,2 @@
-python3 version == 3.12.3
-pytest version == 8.2.1
+
+pytest==8.2.1
